@@ -11,7 +11,7 @@ exports.add = function (req,res,vals) {
                 <title>Calculator Web Site</title>
                </head>
                <body>
-                 <p>The sum is:  ${String(sum)}</p>
+                 <h2  style="font-size: 90px;">The sum is:  ${String(sum)}</h2>
                </body>
               </html> ` );    
                   return res.end();

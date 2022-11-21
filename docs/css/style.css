@@ -1,4 +1,11 @@
 
+
+body{
+
+        text-align: center;
+        padding: 90px;
+}
+
 .one{
 
         padding: 10px;
@@ -6,6 +13,20 @@
         margin-top: 10px;
 }
 
+strong{
+
+        font-size: 20px;
+}
+
+.all{
+
+        height: 40vh;
+
+        width: 30vh;
+
+        border: 2px solid black;
+
+}
 
 .two{
 
@@ -18,4 +39,6 @@
 
         border-radius: 300px;
 }
+
+
 
